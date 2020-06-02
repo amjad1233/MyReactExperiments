@@ -1,2 +1,0 @@
-# MyReactExperiments
-Created with CodeSandbox
